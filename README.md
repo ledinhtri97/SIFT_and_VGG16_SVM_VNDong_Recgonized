@@ -2,17 +2,17 @@ compare Vietnamese Money Recognized with Support Vector Machine, using method ex
 
 contact with me to get data: ledinhtri.cse.hcmut@gmail.com
 
-data
-├── annos.txt
-├── changename.py
-├── images_labels_subsets.txt
-├── info.txt
-├── test
-│   ├── *.jpg
-│   └── resize.sh
-└── vnmoney
-    ├── 00
-    │   └── *.jpg
-    ├── 01
-    │   ├── *.jpg
-    ├── *
+data<br>
+├── annos.txt<br>
+├── changename.py<br>
+├── images_labels_subsets.txt<br>
+├── info.txt<br>
+├── test<br>
+│   ├── *.jpg<br>
+│   └── resize.sh<br>
+└── vnmoney<br>
+    ├── 00<br>
+    │   └── *.jpg<br>
+    ├── 01<br>
+    │   ├── *.jpg<br>
+    ├── *<br>
